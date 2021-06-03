@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>By the King. A proclamation declaring that the proceedings of His Maiesties ecclesiasticall courts and ministers, are according to the lawes of the realme.</title>
+            <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+         </titleStmt>
+         <extent>Approx. 5KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B13134</idno><idno type="EEBO-CITATION">99892682</idno>
+  <idno type="VID">188200</idno>
+  <idno type="EEBO-PROQUEST">2240929507</idno>
+  
+            <idno type="STC">STC 9093</idno>
+            <idno type="STC">Interim Tract Supplement Guide 21.h.1[46]</idno>
+            <idno type="STC">ESTC S123858</idno>
+            <idno type="PROQUEST">ocm99892682</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99892682e"/>
+            <note>(EEBO-TCP ; phase 2, no. B13134)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 188200)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C10:1[46])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>By the King. A proclamation declaring that the proceedings of His Maiesties ecclesiasticall courts and ministers, are according to the lawes of the realme.</title>
+                  <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+                  <author>Charles I, King of England, 1600-1649.</author>
+               </titleStmt>
+               <extent>2 sheets (versos blank).   </extent>
+               <publicationStmt>
+                  <publisher>by Robert Barker, printer to the Kings most excellent Maiestie: and by the assignes of Iohn Bill,</publisher>
+                  <pubPlace>[Imprinted at London :</pubPlace>
+                  <date>1637]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon</note>
+                  <note>Dated at end: ... Lyndhurst, the eighteenth day of August, in the thirteenth yeare of His Maiesties reigne.</note>
+                  <note>Arms 24; Steele notation: pub- opinion 2) conside- to.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Common law --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="proclamation">
+            <pb facs="tcp:188200:1"/>
+            <head>
+               <figure>
+                  <figDesc>royal blazon or coat of arms</figDesc>
+                  <q>HONI SOIT QVI MAL Y PENSE</q>
+                  <q>DIEV ET MON DROIT</q>
+               </figure>
+            </head>
+            <head>¶ By the King.</head>
+            <head>❧ A Proclamation declaring that the proceedings of His Maiesties Ecclesiasticall Courts and Ministers, are according to the Lawes of the Realme.</head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">W</seg>Hereas in some of the libellous Bookes and Pamphlets lately pub<g ref="char:EOLhyphen"/>lished,</hi> the most Reuerend Fathers in God, the Lords Archbishops, and Bishops of the Realme, are said to haue vsurped vpon His Ma<g ref="char:EOLhyphen"/>iesties Prerogatiue Royall, and to haue proceeded in the High Com<g ref="char:EOLhyphen"/>mission, and other Ecclesiasticall Courts, contrary to the Lawes and Statutes of the Realme, It was ordered by His Maiesties high Court of Starre-Chamber the twelfth day of Iune last, that the opinion of the two Lords, chiefe Iustices, the Lord chiefe Baron, and the rest of the Iudges and Barons, should be had and certified in these particulars, <hi>viz.</hi> Whether Processes may not issue out of the Ecclesiasticall Courts in the names of the Bishops: Whe<g ref="char:EOLhyphen"/>ther a Patent vnder the great Seale be necessary for the keeping the Ecclesiasticall Courts, and enabling Citations, Suspensions, Excommunications, and other Censures of the Church: And whether the Citations ought to be in the Kings name, and vnder his Seale of Armes, and the like for Institutions and Inductions to Benefices, and correction of Ecclesiasticall Offences; Whether Bishops, Archdeacons, and other Ecclesiasticall persons may or ought to keepe any Visitation at any time, vnlesse they haue expresse Commission or Patent vnder the great Seale of <hi>England</hi> to doe it, and that as His Maiesties Visitors onely, and in His Name and Right alone.</p>
+            <p>Whereupon, His Maiesties said Iudges hauing taken the same into their serious conside<g ref="char:EOLhyphen"/>ration, did vnanimously concurre and agree in opinion, and the first day of Iuly last certified vnder their hands as followeth, That Processes may issue out of the Ecclesiasticall Courts in the name of the Bishops; And that a Patent vnder the great Seale is not necessary for the keeping of the said Ecclesiasticall Courts, or for the enabling of Citations, Suspensions, Ex<g ref="char:EOLhyphen"/>communications, and other censures of the Church; And that it is not necessary that Sum<g ref="char:EOLhyphen"/>mons, Citations, or other Processes Ecclesiasticall in the said Courts, or Institutions, or In<g ref="char:EOLhyphen"/>ductions to Benefices, or correction of Ecclesiasticall Offences by censure in those Courts, be in the Kings name, or with the stile of the King, or vnder the Kings Seale, or that their Seales of Office haue in them the Kings Armes; And that the Statute of <hi>primo Edwardi sexti, cap. secundo,</hi> which enacted the contrary, is not now in force: And that the Bishops, Archdeacons, and other Ecclesiasticall persons, may keepe their Visitations as vsually they haue done, without Commission vnder the great Seale of <hi>England</hi> so to doe: Which opinions and resolutions being declared vnder the hands of all His Maiesties said Iudges, and so certified into His Court of Star-Chamber, were there recorded: And it was by that Court further ordered the fourth day of the said moneth of Iuly, that the said Certificate should be enrolled in all other His Maie<g ref="char:EOLhyphen"/>sties Courts at <hi>Westminster,</hi> and in the High Commission, and other Ecclesiasticall Courts, for the satisfaction of all men, that the proceedings in the High Commission, and other Ecclesiasti<g ref="char:EOLhyphen"/>call Courts, are agreeable to the Lawes and Statutes of the Realme.</p>
+            <p>And His Royall Maiestie hath thought fit, with aduice of His Councell, that a publike de<g ref="char:EOLhyphen"/>claration of these the opinions and resolutions of His Reuerend and learned Iudges, being agreeable to the Iudgements and Resolutions of former times, should be made knowne to all His Subiects, as well to vindicate the legall proceedings of His Ecclesiasticall Courts and Ministers, from the vniust and scandalous imputation of Inuading or Intrenching on His Royall Prerogatiue, as to settle the mindes, and stop the mouthes of all vnquiet spirits, that for the future they presume not to censure His Ecclesiasticall Courts or Ministers in these their iust and warranted proceedings: And hereof His Maiestie admonisheth all His Subiects to take warning, as they will answer the contrary at their perils.</p>
+            <closer>
+               <dateline>
+                  <hi>Giuen at the Court at Lyndhurst, </hi>
+                  <date>
+                     <hi>the eighteenth day of August, in the thirteenth yeare of His Maiesties Reigne.</hi>
+                  </date>
+               </dateline>
+            </closer>
+            <trailer>❧ <hi>God saue the King.</hi>
+            </trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>¶ Imprinted at London by Robert Barker, Printer to the Kings most Excellent Maiestie: And by the Assignes of Iohn Bill. 1637.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
